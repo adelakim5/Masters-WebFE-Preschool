@@ -1,6 +1,6 @@
 # VScode로 Node.js debugging 하기
 
-## Breackpoints
+## Breakpoints
 
 - 현재 실행중인 코드에서 디버깅하고 싶은 부분에 마크하는것
 - break해보고 싶은 point를 집는다 해서 breakpoint로 생각해도 좋을 것 같다.
