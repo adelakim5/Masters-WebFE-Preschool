@@ -1,8 +1,8 @@
 # VScode로 Node.js debugging 하기
 
-## Breackpoints
+## Breakpoints
 
-- 핸지 실행중인 코드에서 디버깅하고 싶은 부분에 마크하는것
+- 현재 실행중인 코드에서 디버깅하고 싶은 부분에 마크하는것
 - break해보고 싶은 point를 집는다 해서 breakpoint로 생각해도 좋을 것 같다.
 - 코드라인을 선택한후 `F9`를 눌러도 되고, 코드라인 숫자 왼쪽을 마우스로 클릭해 직접 걸어줘도 된다.
 
